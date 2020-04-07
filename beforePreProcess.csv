@@ -474,7 +474,6 @@ ID,age,sex,fever,cough,fatigue,abdominal pain,diarrhea,malaise,pneumonia,aching 
 473,22,male,,,fatigue,,,malaise,,aching muscles,,asymptomatic,,,,,,,joint pain,,,,,,,,,,,,,,,,FALSE
 474,23,male,,,fatigue,,,malaise,,aching muscles,,,,,,,,conjuctivitis,,headache,,,,,,,,,,,,,,,FALSE
 475,21,male,,,,,,,,,,asymptomatic,,,,,,,,,,,,,,,,,,,,,,,FALSE
-476,21,male,,,fatigue,,diarrhea,malaise,,aching muscles,,asymptomatic,chest discomfort,dyspnea,,,chills,,joint pain,headache,weakness,,sneezing,,dizziness,runny nose,,sputum,,,,,,,FALSE
 477,20,male,,,,,,,,,,asymptomatic,,,,,,,,,,,,,,,,,,,,,,,FALSE
 478,24,female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 479,21,female,,,fatigue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
@@ -527,7 +526,6 @@ ID,age,sex,fever,cough,fatigue,abdominal pain,diarrhea,malaise,pneumonia,aching 
 526,20,female,,cough,fatigue,abdominal pain,,malaise,,aching muscles,,asymptomatic,,,nausea,,,conjuctivitis,,headache,,sore throat,,,dizziness,,,,,,,,,,FALSE
 527,43,female,,,,,,,,aching muscles,anorexia,asymptomatic,,,,,,,joint pain,,,,,,,,,,,,,,,,FALSE
 528,24,male,,,,,,,,,,asymptomatic,,,,,,,,headache,,,,,,,,,,,,,,,FALSE
-529,24,male,fever,cough,fatigue,abdominal pain,diarrhea,malaise,pneumonia,aching muscles,anorexia,,chest discomfort,dyspnea,nausea,vomitting,chills,conjuctivitis,joint pain,headache,weakness,sore throat,,rhinorrhea,dizziness,runny nose,difficulty walking,sputum,,,,,,,FALSE
 530,21,male,,,,,,,,,,asymptomatic,,,,,,,,,,,,,,,,,,,,,,,FALSE
 531,25,male,,,,,,,,,,asymptomatic,,,,,,,,,,,sneezing,,,,,,,,,,,,FALSE
 532,21,male,,,fatigue,,,malaise,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
@@ -562,7 +560,6 @@ ID,age,sex,fever,cough,fatigue,abdominal pain,diarrhea,malaise,pneumonia,aching 
 561,18,male,,,fatigue,,,malaise,,aching muscles,anorexia,asymptomatic,,,,,,,joint pain,headache,weakness,,,,,,,,,,,,,,FALSE
 562,22,female,,,,,,,,,,,,,nausea,,,,,,,,,,,,,,,,,,,,FALSE
 563,21,female,,,fatigue,,,,,,,,,,,,,,,headache,,sore throat,,,,,,,,,,,,,FALSE
-564,21,female,,,fatigue,abdominal pain,,malaise,,aching muscles,anorexia,asymptomatic,chest discomfort,dyspnea,nausea,,chills,conjuctivitis,joint pain,headache,weakness,,,,dizziness,,,,,,,,,,FALSE
 565,21,female,,,,,,,,aching muscles,anorexia,,,,,,,,,headache,,sore throat,,,,,,,,,,,,,FALSE
 566,20,female,,,fatigue,,,malaise,,,,,,,,,,,,headache,weakness,,,,,,,,,,,,,,FALSE
 567,22,female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
@@ -583,7 +580,6 @@ ID,age,sex,fever,cough,fatigue,abdominal pain,diarrhea,malaise,pneumonia,aching 
 582,23,female,,,,,,malaise,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 583,21,male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 584,22,female,,,fatigue,abdominal pain,,malaise,,,,,,,,,chills,,,headache,weakness,sore throat,sneezing,,,,,sputum,,,,,,,FALSE
-585,22,male,fever,cough,fatigue,,,malaise,,aching muscles,,asymptomatic,chest discomfort,dyspnea,,vomitting,,conjuctivitis,joint pain,headache,weakness,sore throat,,,dizziness,,,,,,,,,,FALSE
 586,23,male,,,,,,,,,,asymptomatic,,,,,,,,,,,,,,,,,,,,,,,FALSE
 587,23,male,,cough,fatigue,,,malaise,,aching muscles,,,chest discomfort,,,vomitting,,,joint pain,headache,weakness,,,,,,,,,,,,,,FALSE
 588,19,female,,,,abdominal pain,,malaise,,,,,,dyspnea,,,,conjuctivitis,,headache,,,,,,,difficulty walking,,,,,,,,FALSE
